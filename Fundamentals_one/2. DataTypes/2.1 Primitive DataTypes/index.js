@@ -42,5 +42,5 @@ let bigInt = BigInt(123456789); // bigInt is the value
 let firstNames = false 
 console.log(typeof'javaScriptFun') //looking at the console it tells you that this is a "string"
 console.log(typeof firstNames) // this will tell you that it's a "boolean"
-//using this can help you identify the datatype you are making use of.
+//using this can help you identify the datatype you are making use of.//
 
